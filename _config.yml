@@ -1,4 +1,4 @@
-timezone:    Europe/Berlin
+timezone:    'Eastern Time (US & Canada)'
 future:      false
 # The allowed values are 'rouge', 'pygments' or null.
 highlighter: rouge
@@ -13,16 +13,16 @@ kramdown:
 #gems:
 #  - jemoji
 
-title:       re:claim your blog engine
-author:      Thomas Friese
-description: Presentation für die rp14
+title:       Design Language
+author:      Alex Graber
+description: A presentation on presentations
 
 sass:
   style:     :compressed
 
 ## solarized variant (dark/light)
 solarized:
-  theme:     dark
+  theme:     light
 
 slideNumber:
   # Slide number formatting can be configured using these variables:
