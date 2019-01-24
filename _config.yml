@@ -38,13 +38,13 @@ slideNumber:
 ## At the end of your page you need to initialize reveal by running the following code. Note that all config values are optional and will default as specified below.
 reveal:
   ## Display controls in the bottom right corner
-  controls: false
+  controls: true
   ## Display a presentation progress bar
   progress: true
   ## Display the page number of the current slide
   #slideNumber: false
   ## Push each slide change to the browser history
-  history: true
+  history: false
   ## Enable keyboard shortcuts for navigation
   keyboard: true
   ## Enable the slide overview mode
